@@ -10,3 +10,6 @@ After installing this plugin, whenever a creeper explodes it will hurt nearby pl
 
 There are no configuration files for this plugin, so after building, simply add CreeperMemorial.jar to your bukkit plugins directory and restart your server.
 
+## New Section
+
+Testing for git...
